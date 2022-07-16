@@ -6,7 +6,7 @@ def subtract(x,y)
 
 
 def multiply(x,y)
-    pass
+    return x*y
 
 
 def divide(x,y)
@@ -14,4 +14,4 @@ def divide(x,y)
 
 
 def square(x,y)
-    pass
+    pasus
