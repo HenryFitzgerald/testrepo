@@ -1,5 +1,5 @@
-def add(x,y):
-    pass #ADD COMMENT
+def add(x,y): 
+    return (x,y) #ADD COMMENT
 
 def subtract(x,y)
     return x-y
